@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "D:\\Umeng",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "D:\\Umeng",
+        "spec": "D:\\Umeng",
+        "type": "directory"
+      },
+      "C:\\Users\\Administrator\\Desktop\\game_vest\\node_modules"
+    ]
+  ],
+  "_from": "D:\\Umeng",
+  "_id": "umeng_plugin@3.0.0",
+  "_inCache": true,
+  "_location": "/umeng_plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "D:\\Umeng",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "D:\\Umeng",
+    "spec": "D:\\Umeng",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:D:\\Umeng",
+  "_shasum": "e8ae0be9bf7518e4c5931e02d4b98eda263a4d7c",
+  "_shrinkwrap": null,
+  "_spec": "D:\\Umeng",
+  "_where": "C:\\Users\\Administrator\\Desktop\\game_vest\\node_modules",
+  "author": {
+    "name": "umeng"
+  },
+  "cordova": {
+    "id": "Umeng",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "umeng analytics plugin",
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "umeng_plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "3.0.0"
+}
