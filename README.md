@@ -2,7 +2,7 @@
 #友盟的插件
 ##添加插件
 
-cordova plugin add https://github.com/Bjkb/Ql_Umeng --variable API_KEY=友盟KEY --variable CHANNEL=渠道名
+cordova plugin add https://github.com/Bjkb/Ql_Umeng --variable APP_KEY=友盟KEY --variable CHANNEL=渠道名
 
 JS调用事件看www目录或者看官方文档
 
